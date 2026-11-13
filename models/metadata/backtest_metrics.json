@@ -1,0 +1,9 @@
+{
+    "total_return_strategy": -0.22487175416703875,
+    "total_return_buy_hold": -0.16322476601595926,
+    "annualized_sharpe": -14.90447350116044,
+    "annualized_sortino": -15.395389222399835,
+    "max_drawdown": -0.23086936687774615,
+    "number_of_trades": 175,
+    "win_rate_pct": 20.090634441087612
+}
